@@ -1,2 +1,1 @@
-# ga8-excel-test
-Q4: Excel Correlation Heatmap
+# Excel Correlation Heatmap\n\nSubmitted by: test@example.com\n\nUse Manual Mode to download the full CSV and heatmap files.
